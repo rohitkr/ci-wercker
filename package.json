@@ -1,0 +1,23 @@
+{
+  "name": "ci-wercker",
+  "version": "1.0.0",
+  "description": "Sample project to test deployment to a self hosted server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rohitkr/ci-wercker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitkr/ci-wercker/issues"
+  },
+  "homepage": "https://github.com/rohitkr/ci-wercker#readme",
+  "dependencies": {
+    "webpack": "^3.6.0"
+  }
+}
